@@ -1,0 +1,19 @@
+{
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "name": "linked-list",
+  "description": "Linked list implementation",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldargab/linked-list.js.git"
+  },
+  "main": "./lib/linked-list",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*",
+    "benchmark": "*"
+  }
+}
