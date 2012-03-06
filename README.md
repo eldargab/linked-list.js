@@ -22,6 +22,10 @@ Stacking    6     17         27
 Queueing    21    17         28              
 forEach     18    16         23              
 ```
+Tests on http://jsperf.com/ are also available:
+
+* http://jsperf.com/linked-list-vs-array-for-queueing
+* http://jsperf.com/linked-list-vs-array-for-stacking
 
 # Installation
 
